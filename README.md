@@ -13,6 +13,8 @@
 
 将 `wechatDownload2.6_Windows.zip` 进行解压
 
+将**开启的代理关闭**
+
 1.打开想要下载的公众号里面的随便一篇文章，复制链接到软件中，点击获取公众号id
 ![image](https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F06%2F5fbee2aa-f1b5-4a1e-b031-ab994debc4ee-981124.png)
 
